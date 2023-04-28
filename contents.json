@@ -1,0 +1,738 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.cats",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "eastercats1",
+      "name": "Happy Easter",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "meowemoji1",
+      "name": "Meowemoji (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "meowemoji2",
+      "name": "Meowemoji (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "meowemoji3",
+      "name": "Meowemoji (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "toracat1",
+      "name": "Tora Cats (1)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "toracat2",
+      "name": "Tora Cats (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "valentine",
+      "name": "Happy Valentine",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "persikcat1",
+      "name": "Persik Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "persikcat2",
+      "name": "Persik Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "persikcat3",
+      "name": "Persik Cat 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "persikcat4",
+      "name": "Persik Cat 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gojill1",
+      "name": "Gojill 1",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "gojill2",
+      "name": "Gojill 2",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "bluemichis",
+      "name": "Blue Michis",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "photocats1",
+      "name": "Photo Cats 1",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "photocats2",
+      "name": "Photo Cats 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "catsa10",
+      "name": "Animated Cats (10)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "catsa11",
+      "name": "Animated Cats (11)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "catvik",
+      "name": "Cat Vik",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "catsa5",
+      "name": "Animated Cats (5)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "catsa6",
+      "name": "Animated Cats (6)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "catsa7",
+      "name": "Animated Cats (7)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "catsa8",
+      "name": "Animated Cats (8)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "catsa9",
+      "name": "Animated Cats (9)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "catsa3",
+      "name": "Animated Cats (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "catsa4",
+      "name": "Animated Cats (4)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "cats13",
+      "name": "Cats 13",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "cats14",
+      "name": "Cats 14",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "blackcat2",
+      "name": "Black Cat 2",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "catphrases1",
+      "name": "Cat Phrases 1",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "cats12",
+      "name": "Cats 12",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "kvadrokot",
+      "name": "Kvadrokot",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "tendy1",
+      "name": "Tendy 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "tendy2",
+      "name": "Tendy 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "cats10",
+      "name": "Cats 10",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "cats11",
+      "name": "Cats 11",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "cats6",
+      "name": "Cats 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cats7",
+      "name": "Cats 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cats8",
+      "name": "Cats 8",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cats9",
+      "name": "Cats 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cats5",
+      "name": "Cats 5",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "catsa2",
+      "name": "Animated Cats (2)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "wintercat1",
+      "name": "Winter Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "wintercat2",
+      "name": "Winter Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "whiteweirdcat",
+      "name": "White Weird Cat",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "cats4",
+      "name": "Cats 4",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "catsfunny",
+      "name": "Cats Funny",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "catscrying",
+      "name": "Cats Crying",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "catsa1",
+      "name": "Animated (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fatcat",
+      "name": "Fat Cat",
+      "animated_sticker_pack": false,
+      "stickers": "6"
+    },
+    {
+      "identifier": "princemichael",
+      "name": "Prince Michael",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "filtered1",
+      "name": "Filtered",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "grey1",
+      "name": "Grey (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "grey2",
+      "name": "Grey (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "stone1",
+      "name": "Stone (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "stone2",
+      "name": "Stone (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "whitecat",
+      "name": "White Cat",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "skagcat",
+      "name": "Skag Cat",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "meow2",
+      "name": "Meow (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "mrcat",
+      "name": "Mr Cat",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "blanco",
+      "name": "Blanco",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pusheen1",
+      "name": "Pusheen 1",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pusheen2",
+      "name": "Pusheen 2",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "tidytiecat",
+      "name": "Tidyt Tie Cat",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "orangecat",
+      "name": "Orange Cat",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "riffy",
+      "name": "Riffy",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "tiny",
+      "name": "Tiny",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "louttyaw1",
+      "name": "Loutty Aw (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "louttyaw2",
+      "name": "Loutty Aw (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "pinkcat",
+      "name": "Pink Cat",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "realcatsreactions",
+      "name": "Real Cats Reactions",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "realcats1",
+      "name": "Real Cats",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "catlove1",
+      "name": "Cat Love",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "kittenkitty2",
+      "name": "Kitten Kitty 2",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "valentine",
+      "name": "Happy San Valentine",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "kittenkitty1",
+      "name": "Kitten Kitty 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "unicorniocat",
+      "name": "Unicornio Cat",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "upet2",
+      "name": "Pack Upet 2",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "upet1",
+      "name": "Pack Upet 1",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "realmemes1",
+      "name": "Pack Real Memes",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "catheroe3",
+      "name": "Pack Cat Heroe 3",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "catheroe2",
+      "name": "Pack Cat Heroe 2",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "funnycats2",
+      "name": "Pack Funny Cats 2",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "catheroe1",
+      "name": "Pack Cat Heroe 1",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "cupidcat",
+      "name": "Pack Cupid Cat",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "funnycats",
+      "name": "Pack Funny Cats",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "tele116",
+      "name": "Pack 21",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "tele115",
+      "name": "Pack 20",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "tele114",
+      "name": "Pack 19",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tele113",
+      "name": "Pack 18",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tele112",
+      "name": "Pack 17",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tele111",
+      "name": "Pack 22",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "crazycats4",
+      "name": "Crazy Cats 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "crazycats3",
+      "name": "Crazy Cats 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "crazycats2",
+      "name": "Crazy Cats 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "blackcat",
+      "name": "Black Cat",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "crazycats1",
+      "name": "Crazy Cats 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cats1",
+      "name": "Pack 16",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tele10",
+      "name": "Pack 15",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "tele9",
+      "name": "Pack 14",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tele8",
+      "name": "Pack 13",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "tele7",
+      "name": "Pack 12",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "tele6",
+      "name": "Pack 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tele5",
+      "name": "Pack 10",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pack9",
+      "name": "Pack 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pack8",
+      "name": "Pack 8",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pack7",
+      "name": "Pack 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pack6",
+      "name": "Pack 6",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "halloween",
+      "name": "Pack Halloween",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "emojis",
+      "name": "Pack Emojis",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "expression",
+      "name": "Pack Expression",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "toyger",
+      "name": "Pack Toyger",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "persa",
+      "name": "Pack Persa",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "meow",
+      "name": "Pack Meow",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "real3",
+      "name": "Real Cats 3",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "real2",
+      "name": "Real Cats 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "real1",
+      "name": "Real Cats 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack1",
+      "name": "Pack 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack2",
+      "name": "Pack 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack3",
+      "name": "Pack 3",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack4",
+      "name": "Pack 4",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack5",
+      "name": "Pack 5",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    }
+  ]
+}
