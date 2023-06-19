@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "cats15",
+      "name": "Cats (15)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "cats16",
+      "name": "Cats (16)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "cats17",
+      "name": "Cats (17)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "cats18",
+      "name": "Cats (18)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
       "identifier": "eastercats1",
       "name": "Happy Easter",
       "animated_sticker_pack": false,
