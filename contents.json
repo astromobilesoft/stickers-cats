@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "catsa12",
+      "name": "Animated Cats (12)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "catsa13",
+      "name": "Animated Cats (13)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
       "identifier": "cats15",
       "name": "Cats (15)",
       "animated_sticker_pack": false,
