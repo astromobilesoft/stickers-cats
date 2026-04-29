@@ -2,6 +2,12 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.cats",
   "ios_app_store_link": "",
   "sticker_packs": [
+    {
+      "identifier": "29abril1",
+      "name": "Animal Day",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
      {
       "identifier": "pascuasa1",
       "name": "Happy Easter",
